@@ -1,6 +1,5 @@
 This is a fork of ansman/validate.js since it no longer appears to be maintained.
 The documentation will be updated to reflect the change in name.
-Please do not email any of the below
 
 validate.js
 ===
@@ -8,7 +7,7 @@ Validate.js provides a declarative way of validating javascript objects.
 
 For documentation please see [validatejs.org/](http://validatejs.org/).
 
-For issues and feature requests visit the [issue tracker](https://github.com/ansman/validate.js/issues).
+For issues and feature requests visit the [issue tracker](https://github.com/focusmx/validate.js/issues).
 
 Building validate.js
 ---
