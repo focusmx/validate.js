@@ -1,3 +1,7 @@
+This is a fork of ansman/validate.js since it no longer appears to be maintained.
+The documentation will be updated to reflect the change in name.
+Please do not email any of the below
+
 validate.js
 ===
 Validate.js provides a declarative way of validating javascript objects.
@@ -28,16 +32,15 @@ If you want to just run the tests once you can do that by running `grunt test`.
 
 Build status
 ---
-[![Build Status](https://travis-ci.org/ansman/validate.js.svg?branch=master)](https://travis-ci.org/ansman/validate.js)
-[![Coverage Status](https://coveralls.io/repos/ansman/validate.js/badge.svg?branch=master)](https://coveralls.io/r/ansman/validate.js?branch=master)
+
 
 Contributing
 ---
 Before opening a pull request please make sure your changes follow the
-[contribution guidelines](https://github.com/ansman/validate.js/blob/master/CONTRIBUTING.md).
+[contribution guidelines](https://github.com/focusmx/validate.js/blob/master/CONTRIBUTING.md).
 
 Users of validate.js
 ---
 If your site, library or application uses validate.js and would like to be shown
-here please feel free to email <a href="mailto:info@validatejs.org">info@validatejs.org</a>
+here please feel free to 
 with the name and optionally a URL to the project and it will be added here.
